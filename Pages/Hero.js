@@ -7,7 +7,7 @@ import "animate.css";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import { darkTheme, lightTheme } from "./theme";
 import { Link } from "next/link";
-import { useWindowDimention } from "@/hooks/useWindowDimentions";
+import { useWindowDimention } from "../hooks/useWindowDimentions";
 
 export default function Hero() {
   const { innerWidth } = useWindowDimention();
