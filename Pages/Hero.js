@@ -61,7 +61,8 @@ export default function Hero() {
               Strong in design and integration with intuitive problem-solving
               skills. Proficient in ReactJS, HTML, CSS, JAVASCRIPT, and Next Js
               . Passionate about implementing and launching new projects.
-              {/* Ability to translate business requirements into technical solutions. */}
+              Ability to translate business requirements into technical
+              solutions.
             </Typography>
             <Grid container pt={4} gap={3}>
               <Button
