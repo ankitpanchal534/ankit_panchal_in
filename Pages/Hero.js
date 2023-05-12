@@ -5,7 +5,7 @@ import { Button, Grid, Tooltip, Typography } from "@mui/material";
 // import { hero_image } from "../assests";
 import "animate.css";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import { darkTheme, lightTheme } from "./theme";
+import { darkTheme, lightTheme } from "../libs/theme";
 import { Link } from "next/link";
 import { useWindowDimention } from "../hooks/useWindowDimentions";
 

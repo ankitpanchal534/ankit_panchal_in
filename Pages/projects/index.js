@@ -1,7 +1,7 @@
 import React from "react";
 import { Grid, Typography } from "@mui/material";
 import ProjectCard from "./ProjectCard";
-import { projectData } from "./projectData";
+import projectData from "./projectData";
 
 export default function Projects() {
   const lightMode = true;

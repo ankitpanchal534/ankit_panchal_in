@@ -1,6 +1,6 @@
 import React from "react";
 import { Typography, Button, Grid } from "@mui/material";
-import { darkTheme, lightTheme } from "../theme";
+import { darkTheme, lightTheme } from "../../libs/theme";
 
 export default function ProjectCard(props) {
   const { name, description, link, image, index, lightMode } = props;
